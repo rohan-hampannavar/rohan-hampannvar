@@ -12,7 +12,7 @@
 - 🤔 **Looking for help with:** Code reviews, backend architecture feedback, and best practices
 - 💬 **Ask me about:** Core Java fundamentals, OOPs, collections, learning Java as a fresher
 - 📫 **How to reach me:**  
-  - LinkedIn: *(add link)*  
-  - Email: *(add professional email)*
+  - LinkedIn:([https://www.linkedin.com/in/rohanhampannavar/](https://www.linkedin.com/in/rohanhampannavar/)) 
+  - Email: *(rohanhampannavar.dev@gmail.com)*
 - ❤️ **I love:** Building things from scratch and understanding how systems work under the hood
 - ⚡ **Fun fact:** I’m documenting my entire zero-to-job Java journey publicly on GitHub
